@@ -26,3 +26,8 @@ Join a Room!
 Tip!
 ---
 You don't have to install **Python**! Just Download My Other two EXE file and now you can use it!
+
+# All Warn!
+
+1. Server can't send message and see the chat!
+2. Server can be crashed by entering ****** (You can see it by this [link](https://docs.google.com/document/d/1wxinJmp9P27aJV7ZQ3OWEhfep4h2SfIvXmdAwIP4SAA/edit?usp=sharing))
