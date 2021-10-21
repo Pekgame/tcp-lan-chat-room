@@ -25,7 +25,7 @@ Join a Room!
 
 Tip!
 ---
-You don't have to install **Python**! Just Download My Other two EXE file and now you can use it!
+You don't have to install **Python**! Just [Download](https://drive.google.com/drive/folders/1a3HeeWnadV3Pn_6rjh7Sx1CroFe6lB93?usp=sharing) My Other two EXE file and now you can use it!
 
 # All Warn!
 
