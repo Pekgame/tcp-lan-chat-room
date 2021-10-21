@@ -21,3 +21,8 @@ Join a Room!
 4. **Enter** your **own** Nickname.
 5. Now **your IP, Port and Nickname** will show on **server** screen.
 6. Then **wait** for **other client** to **join** and then you can chat!
+
+Tip!
+---
+You don't have to install **Python**!
+Just Download My Other two EXE file and now you can use it!
