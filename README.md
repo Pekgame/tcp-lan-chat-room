@@ -14,15 +14,15 @@ Making Server!
 
 Join a Room!
 ---
-1. **Run** `client.py` file.
-1. **As**k host for a server **Port and IP**.
-2. **Enter** server **IP**.
-3. **Enter** server **Port**.
-4. **Enter** your **own** Nickname.
-5. Now **your IP, Port and Nickname** will show on **server** screen.
-6. Then **wait** for **other client** to **join** and then you can chat!
+1. Install **[Python](https://www.python.org/downloads/)** (Ctrl+Click).
+2. **Run** `client.py` file.
+3. **Ask** host for a server **Port and IP**.
+4. **Enter** server **IP**.
+5. **Enter** server **Port**.
+6. **Enter** your **own** Nickname.
+7. Now **your IP, Port and Nickname** will show on **server** screen.
+8. Then **wait** for **other client** to **join** and then you can chat!
 
 Tip!
 ---
-You don't have to install **Python**!
-Just Download My Other two EXE file and now you can use it!
+You don't have to install **Python**! Just Download My Other two EXE file and now you can use it!
