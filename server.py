@@ -2,13 +2,14 @@ print("Importing...")
 import os
 import threading
 import socket
+import pyperclip
 
 os.system('cls')
 hostname = socket. gethostname()
 ip = socket. gethostbyname(hostname)
 
 host = ip #"127.0.0.1"
-port = int(input("Your custom Port(4-5 Char): "))
+port = int(input("Your custom Port(Can be 1-65535): "))
 os.system('cls')
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -17,6 +18,9 @@ server.listen()
 
 clients = []
 nicknames = []
+
+def copy(text):
+    pyperclip.copy(text)
 
 def broadcast(message):
     for client in clients:
@@ -53,5 +57,6 @@ def receive():
         thread = threading.Thread(target=handle, args=(client,))
         thread.start()
 
-print(f"Your IP: {ip}\nYour Port: {port}\nServer is listening...")
+print(f"Your IP: {ip}\nYour Port: {port}\nThe Port and IP is Copied to clipboard\nServer is listening...")
+copy(f"IP: {ip}\nPort: {port}")
 receive()
